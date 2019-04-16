@@ -1,0 +1,19 @@
+
+*{
+    transition: all 2s;
+}
+h1{
+    position: relative;
+    left: 0px;
+}
+
+.test{
+    background-color: #818181;
+    color: #09c;
+    position: relative;
+    left: 100px;
+}
+
+#c{
+    background-color: 0fc;
+}
